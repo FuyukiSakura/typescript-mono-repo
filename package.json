@@ -1,0 +1,11 @@
+{
+  "name": "tsc-project-ref-sample",
+  "version": "1.0.0",
+  "description": "Trying to use typescript project reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Lam",
+  "license": "ISC"
+}

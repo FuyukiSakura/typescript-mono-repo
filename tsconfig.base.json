@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "composite": true,
+        "declaration": true,
+        "declarationMap": true,
+        "paths": {
+            "common": [
+                "packages/common/src"
+            ],
+            "node": [
+                "packages/node/src"
+            ]
+        }
+    }
+}
